@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Screwdrivers</folder>
+	<filename>000151.jpg</filename>
+	<path>C:\Users\Narut\Desktop\Proyecto_Ing\tools\Images\Screwdrivers\000151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Screwdriver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>35</ymin>
+			<xmax>48</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Phillips screwdriver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>86</ymin>
+			<xmax>86</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pozidriv screwdriver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>135</ymin>
+			<xmax>152</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

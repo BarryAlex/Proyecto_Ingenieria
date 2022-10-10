@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hammer</folder>
+	<filename>Hammer (1175).JPEG</filename>
+	<path>C:\Users\Narut\Desktop\Proyecto_Ing\tools\Images\Hammer\Hammer (1175).JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>297</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Claw hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>43</ymin>
+			<xmax>279</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Wrench</folder>
+	<filename>000013.jpg</filename>
+	<path>C:\Users\Narut\Desktop\Proyecto_Ing\tools\Images\Wrench\000013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>315</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Socket wrench</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>315</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

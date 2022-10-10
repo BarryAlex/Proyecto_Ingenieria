@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Screwdrivers</folder>
+	<filename>000154.jpg</filename>
+	<path>C:\Users\Narut\Desktop\Proyecto_Ing\tools\Images\Screwdrivers\000154.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>245</width>
+		<height>206</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Screwdriver</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>41</ymin>
+			<xmax>140</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

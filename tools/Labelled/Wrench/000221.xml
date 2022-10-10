@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Wrench</folder>
+	<filename>000221.jpg</filename>
+	<path>C:\Users\Narut\Desktop\Proyecto_Ing\tools\Images\Wrench\000221.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>172</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Allen wrench</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>94</ymin>
+			<xmax>273</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

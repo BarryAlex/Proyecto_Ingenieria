@@ -1,0 +1,57 @@
+Destornilladores:
+	Screwdriver
+	Phillips screwdriver
+	Allen
+	Torx screwdriver
+	Interchangeable
+	Precision screwdriver
+	Pozidriv screwdriver
+	Star screwdriver
+	Square screwdriver
+
+Me quedé en la imagen 357 dentro del programa (Destornilladores)
+
+Martillos:
+	https://www.diydata.com/tool/hammer/hammers.php
+	https://www.theengineerspost.com/types-of-hammers/
+	* Claw hammer, hand hammer (el tipico, tipico pero ovalado el mago)
+	* Ball-peen hammer
+	Club hammer (marro)
+	Sledge hammer (mazo)
+	Joiner´s hammer (de madera)
+	Rubber hammer
+	Soft-faced hammer (de goma, delgados)
+Me quedé en la imagen 853 dentro del programa
+
+Pinzas:
+	* Nose pliers
+	* Slip joint pliers
+	* Locking pliers
+	* Combination pliers
+	Crimping pliers
+        * Linesman pliers
+        * Diagonal pliers
+        * Tongue and groove pliers
+	
+201 dentro del programa, terminado.
+
+Llaves: https://www.theengineerspost.com/types-of-wrenches/
+	https://www.cadena88.com/es/consejos-y-trucos/tipos-de-llaves
+	https://www.lowes.com/n/buying-guide/wrench-buying-guide
+	https://www.engineeringchoice.com/types-of-wrenches/
+	https://worstroom.com/types-of-wrenches/
+	* Pipe wrench (stilson)
+	* Socket wrench (matraca con dado)
+	* Ratchering wrench (combinda con matraca)
+	* Combination wrench
+	* Adjustable wrench (inglesa)
+	Monkey wrench (se parece a la stilson pero antigua) 118
+	Plumbers wrench (la pinza tongue)
+	* Allen wrench
+	Basin wrench (la rara que parece gancho)
+	Tap wrench (para hacer roscados)
+	* Open-End wrench
+	* Box-End wrench
+	* Torx wrench
+
+532 dentro del programa

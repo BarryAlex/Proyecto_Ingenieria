@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pliers</folder>
+	<filename>000080.jpg</filename>
+	<path>C:\Users\Narut\Desktop\Proyecto_Ing\tools\Images\pliers\000080.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Combination pliers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>51</ymin>
+			<xmax>248</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

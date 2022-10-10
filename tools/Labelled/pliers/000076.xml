@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pliers</folder>
+	<filename>000076.jpg</filename>
+	<path>C:\Users\Narut\Desktop\Proyecto_Ing\tools\Images\pliers\000076.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>303</width>
+		<height>166</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nose pliers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>40</ymin>
+			<xmax>295</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>
